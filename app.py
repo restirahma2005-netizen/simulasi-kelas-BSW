@@ -33,3 +33,4 @@ pg = st.navigation (
     expanded = True
 )
 
+pg.run()
